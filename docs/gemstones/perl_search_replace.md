@@ -1,6 +1,7 @@
 ---
 title: Perl - Search and Replace
 author: Steven Spencer
+contributors: tianci li, Pedro Garcia
 ---
 
 # `perl` Search and Replace

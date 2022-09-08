@@ -1,6 +1,7 @@
 ---
 title: sed - Search and Replace
 author: Steven Spencer
+contributors: Pedro Garcia
 ---
 
 # `sed` - Search and Replace
